@@ -1,2 +1,2 @@
 print("Hello World")
-print("~by Aishwarya Suyal")
+print("~By Samarth Pratap Singh Tomar") 
